@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 'Box Sir Club'
+subtitle: 'Box Sir Technical Sharing Club'
+description: '可以变现的技术分享，让创意不在受束与技术，技术产生更大的价值。'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Gauss
+language: zh
+timezone: 'Asia/Chongqing'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://www.boxsir.club/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
